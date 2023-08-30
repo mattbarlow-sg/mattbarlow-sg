@@ -1,4 +1,5 @@
 # Recent Posts
+- [Using Backstage To Automate AWS Infrastructure](https://www.stratusgrid.com/open-space/how-to-automate-aws-with-backstage)
 - [Terraform module for ALB Access Logs](https://github.com/StratusGrid/terraform-aws-athena-alb-table)
 - [Integrating Val Town with tana](https://dev.to/pentekostos/integrating-val-town-with-tana-1m3o)
 - [Tutorial For Deploying Backstage On AWS](https://github.com/mattbarlow-sg/backstage-aws-walkthrough)
