@@ -1,4 +1,5 @@
 # Recent Posts
+- [Using Global Context Keys To Restrict Access In IAM](https://www.stratusgrid.com/open-space/how-to-restrict-actions-with-condition-context-keys-aws-iam)
 - [(Unofficial) Readwise Add-on For Anki](https://github.com/mattbarlow-sg/readwise-anki)
 - [Using Backstage To Automate AWS Infrastructure](https://www.stratusgrid.com/open-space/how-to-automate-aws-with-backstage)
 - [Terraform module for ALB Access Logs](https://github.com/StratusGrid/terraform-aws-athena-alb-table)
