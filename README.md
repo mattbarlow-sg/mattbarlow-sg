@@ -9,8 +9,4 @@
 - [Augmenting ChatGPT With Amazon OpenSearch](https://www.stratusgrid.com/open-space/augmenting-chatgpt-with-amazon-opensearch?utm_content=241283095)
 - [Using The Lambda Secrets Manager Extension](https://www.stratusgrid.com/open-space/using-the-lambda-secrets-manager-extension)
 
-# GitHub Stats
-![](https://raw.githubusercontent.com/mattbarlow-sg/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/mattbarlow-sg/github-stats/master/generated/languages.svg#gh-light-mode-only)
-
-_GitHub Stats and my heatmap do not include work commits._
+![Leetcode Stats](https://leetcard.jacoblin.cool/pentekostos)
