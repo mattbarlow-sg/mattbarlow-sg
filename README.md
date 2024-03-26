@@ -1,4 +1,5 @@
 # Recent Posts
+- [Dynamic Provider Configurations In Terraform and Pulumi](https://stratusgrid.com/blog/overcoming-dynamic-provider-configuration-limitations)
 - [Using Global Condition Context To Restrict Access In IAM](https://www.stratusgrid.com/open-space/how-to-restrict-actions-with-condition-context-keys-aws-iam)
 - [(Unofficial) Readwise Add-on For Anki](https://github.com/mattbarlow-sg/readwise-anki)
 - [Using Backstage To Automate AWS Infrastructure](https://www.stratusgrid.com/open-space/how-to-automate-aws-with-backstage)
