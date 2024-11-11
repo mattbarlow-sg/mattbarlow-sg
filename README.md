@@ -1,4 +1,6 @@
 # Recent Posts
+- [Intro To Amazon Bedrock](https://www.youtube.com/watch?v=fjkcvg--wog)
+- [Backstage In Production](https://stratusgrid.com/blog/aws-backstage-production)
 - [Dynamic Provider Configurations In Terraform and Pulumi](https://stratusgrid.com/blog/overcoming-dynamic-provider-configuration-limitations)
 - [Using Global Condition Context To Restrict Access In IAM](https://www.stratusgrid.com/open-space/how-to-restrict-actions-with-condition-context-keys-aws-iam)
 - [(Unofficial) Readwise Add-on For Anki](https://github.com/mattbarlow-sg/readwise-anki)
